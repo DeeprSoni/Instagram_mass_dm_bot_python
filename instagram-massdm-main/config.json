@@ -1,0 +1,15 @@
+{
+    "instagram_settings": {
+        "username": "onlygiveawaysmessage",
+        "password": "ds06bb01",
+        "text_message": "Hello"
+    },
+
+    "script_settings": {
+        "license": "a",
+        "use_proxy": false,
+        "proxy_type": "https",
+        "threading": 10,
+        "message_amount": 1
+    }
+}
